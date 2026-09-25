@@ -1,0 +1,1 @@
+Open deep-learning-nlp-sentiment.ipynb in Google Colab, choose Runtime > Run all, then save the executed notebook back to GitHub. Upload the generated sentiment_model.keras and tfidf_vectorizer.joblib if desired.
